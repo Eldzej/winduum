@@ -1,4 +1,4 @@
-:is(.ui-btn.hover-fill) {
+.ui-btn.hover-fill {
   --ui-btn-hover-opacity: 1;
 
   &:not(:disabled):hover {

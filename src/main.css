@@ -1,4 +1,7 @@
-@import "base/index.css";
+@layer winduum-base, winduum-components, winduum-variants, winduum-utilities;
+
+@import "base/index.css" layer(winduum-base);
 @import "ui/+.css";
 @import "components/+.css";
 @import "libraries/+.css";
+@import "tailwind.css" layer(winduum-utilities);

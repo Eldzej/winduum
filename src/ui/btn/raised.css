@@ -1,4 +1,4 @@
-:is(.ui-btn.raised) {
+.ui-btn.raised {
   --ui-btn-outline-opacity: 0.15;
 
   outline: var(--ui-btn-outline-width) solid rgb(var(--color-current) / var(--ui-btn-outline-opacity));

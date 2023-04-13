@@ -1,4 +1,4 @@
-:is(.ui-btn.outline-gradient) {
+.ui-btn.outline-gradient {
   --ui-btn-focus-opacity: 0.15;
   --color-accent: var(--color-default);
   --color-current: var(--color-accent);
